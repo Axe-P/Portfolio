@@ -12,7 +12,7 @@ const projects: Project[] = [
     title: 'Expense Tracker',
     imageUrl: './src/assets/projectpics/Expense Book.png',
     deployedUrl: 'https://axe-p.github.io/Project-1-ExpenseBook/',
-    githubUrl: 'https://github.com/your-username/project1'
+    githubUrl: 'https://axe-p.github.io/Project-1-ExpenseBook/'
   },
   {
     title: 'CSS Cheatsheet',
