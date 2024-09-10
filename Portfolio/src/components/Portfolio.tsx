@@ -1,4 +1,5 @@
 import React from 'react';
+import cssCheatSheet from '../../public/assets/projectpics/CSS Cheatsheet.png';
 
 type Project = {
   title: string;
@@ -10,7 +11,7 @@ type Project = {
 const projects: Project[] = [
   {
     title: 'Expense Tracker',
-    imageUrl: './public/assets/projectpics/Expense Book.png',
+    imageUrl: cssCheatSheet,
     deployedUrl: 'https://axe-p.github.io/Project-1-ExpenseBook/',
     githubUrl: 'https://axe-p.github.io/Project-1-ExpenseBook/'
   },
