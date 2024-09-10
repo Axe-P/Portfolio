@@ -10,37 +10,37 @@ type Project = {
 const projects: Project[] = [
   {
     title: 'Expense Tracker',
-    imageUrl: './src/assets/projectpics/Expense Book.png',
+    imageUrl: './public/assets/projectpics/Expense Book.png',
     deployedUrl: 'https://axe-p.github.io/Project-1-ExpenseBook/',
     githubUrl: 'https://axe-p.github.io/Project-1-ExpenseBook/'
   },
   {
     title: 'CSS Cheatsheet',
-    imageUrl: './src/assets/projectpics/CSS Cheatsheet.png',
+    imageUrl: './public/assets/projectpics/CSS Cheatsheet.png',
     deployedUrl: 'https://axe-p.github.io/Mini-Project-2/',
     githubUrl: 'https://github.com/Axe-P/Mini-Project-2'
   },
   {
     title: 'First Ever Deployed Website',
-    imageUrl: './src/assets/projectpics/First Project.png',
+    imageUrl: './public/assets/projectpics/First Project.png',
     deployedUrl: 'https://axe-p.github.io/prework-study-guide/',
     githubUrl: 'https://github.com/Axe-P/prework-study-guide'
   },
   {
     title: 'Horiseon Solutions',
-    imageUrl: './src/assets/projectpics/Horiseon.png',
+    imageUrl: './public/assets/projectpics/Horiseon.png',
     deployedUrl: 'https://axe-p.github.io/Module-1-Challenge/',
     githubUrl: 'https://github.com/Axe-P/Module-1-Challenge/tree/Modifying-Branch'
   },
   {
     title: 'Employee Payroll',
-    imageUrl: './src/assets/projectpics/Expense Tracker.png',
+    imageUrl: './public/assets/projectpics/Expense Tracker.png',
     deployedUrl: 'https://axe-p.github.io/Module-3-Challenge/',
     githubUrl: 'https://github.com/your-username/project2'
   },
   {
     title: 'First Portfolio',
-    imageUrl: './src/assets/projectpics/First Portfolio.png',
+    imageUrl: './public/assets/projectpics/First Portfolio.png',
     deployedUrl: 'https://axe-p.github.io/Module-2-Challenge/',
     githubUrl: 'https://github.com/Axe-P/Module-2-Challenge'
   }

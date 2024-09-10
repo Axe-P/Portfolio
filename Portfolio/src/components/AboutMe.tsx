@@ -5,7 +5,7 @@ const AboutMe: React.FC = () => {
     <section id="about-me" style={{ padding: '20px', textAlign: 'left' }}>
       <h2>About Me</h2>
       <img
-        src="./src/assets/pfp.jpeg"
+        src="./public/assets/pfp.jpeg"
         alt="pfp"
         style={{ borderRadius: '70%', width: '200px', height: '200px', objectFit: 'cover', float: 'left', marginRight: '20px' }}
       />
