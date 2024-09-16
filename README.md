@@ -24,8 +24,6 @@ Navigate to the website provided and use like any other website.
 N/A
 
 ## License
-
-## License
 This project licensed by MIT.
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [MIT License](https://opensource.org/licenses/MIT)
